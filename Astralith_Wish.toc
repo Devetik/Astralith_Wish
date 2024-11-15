@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: Astralith_Wish
+## Author: [Devetik]
+## Version: 1.0
+## Notes: Wish list for Astralith
+ItemList.lua
+Astralith_Wish.lua
